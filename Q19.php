@@ -14,7 +14,7 @@ if (!$conn) {
 }
 
 // Query for Pune students
-$sql = "SELECT * FROM student WHERE city = 'Nashik'";
+$sql = "SELECT * FROM student WHERE city = 'Pune'";
 $result = mysqli_query($conn, $sql);
 
 if (mysqli_num_rows($result) > 0) {
