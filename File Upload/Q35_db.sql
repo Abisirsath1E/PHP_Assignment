@@ -12,3 +12,4 @@ CREATE TABLE EMP_TABLE (
     hobbies VARCHAR(100),
     photo LONGBLOB
 );
+

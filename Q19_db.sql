@@ -15,6 +15,7 @@ CREATE TABLE student (
 );
 
 Example data (optional for testing):
+
 INSERT INTO student VALUES
 (1, 'Rohan', 20, 'Pune', 'BCA'),
 (2, 'Sneha', 19, 'Mumbai', 'BCS'),
